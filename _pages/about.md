@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Senior Systems Engineer at Lockheed Martin Aeronautics
 
 profile:
   align: right

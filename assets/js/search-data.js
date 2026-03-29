@@ -521,11 +521,11 @@ ninja.data = [{
           window.open("mailto:%74%68%75%61%6E%61%6E%64%79%64%75%63%62%75%69@%67%6D%61%69%6C.%63%6F%6D", "_blank");
         },
       },{
-        id: 'social-ieee',
-        title: 'IEEE Xplore',
+        id: 'social-github',
+        title: 'GitHub',
         section: 'Socials',
         handler: () => {
-          window.open("https://ieeexplore.ieee.org/author/95166469/", "_blank");
+          window.open("https://github.com/andyducbui", "_blank");
         },
       },{
         id: 'social-rss',

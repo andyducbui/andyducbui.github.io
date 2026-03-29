@@ -104,7 +104,7 @@ The project is structured as follows, focusing on the main components that you w
 .
 ├── 📂 assets/: contains the assets that are displayed in the website
 │   └── 📂 json/
-    │   └── 📄 resume.json: CV in JSON format (https://jsonresume.org/)
+│   │   └── 📄 resume.json: CV in JSON format (https://jsonresume.org/)
 ├── 📂 _bibliography/
 │   └── 📄 papers.bib: bibliography in BibTeX format
 ├── 📂 _books/: contains the bookshelf pages

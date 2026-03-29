@@ -7,7 +7,7 @@ first_name: Andy
 middle_name: 
 last_name: Bui
 contact_note: >
-  For all inquiries please contact through email.
+  For all inquiries please contact via email.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >

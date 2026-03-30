@@ -18,6 +18,7 @@ cv:
     countryCode: US
 
   sections:
+  
    Education:
       - institution: Southern Methodist University
         location: Dallas, Texas
@@ -43,7 +44,6 @@ cv:
           - "Project lead, designed a solar panel that would search and then move toward the most optimal recharging path"
           - "Project lead, programmed a FGPA to convert serial data to parallel data"
 
-
     Experience:
       - company: Lockheed Martin Aeronautics
         position: Systems Engineer Senior
@@ -52,7 +52,6 @@ cv:
         end_date: 
         summary: Integrated F-35 Navigation GPS/INS hardware and software in an Agile environment.
         highlights:
-
 
       - company: Café Natalie Catering
         position: IT / Event Manager

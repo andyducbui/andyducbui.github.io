@@ -42,8 +42,8 @@ cv:
         score: ""
         courses: "Embedded Systems, Microprocessors, Object Oriented Programming, Advanced Computer Networks"
         highlights:
-          -Project lead, designed a solar panel that would search and then move toward the most optimal recharging path
-          -Project lead, programmed a FGPA to convert serial data to parallel data
+          - "Project lead, designed a solar panel that would search and then move toward the most optimal recharging path"
+          - "Project lead, programmed a FGPA to convert serial data to parallel data"
 
 
     Experience:

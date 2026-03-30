@@ -18,8 +18,7 @@ cv:
     countryCode: US
 
   sections:
-  
-   Education:
+    Education:
       - institution: Southern Methodist University
         location: Dallas, Texas
         url: https://www.smu.edu/

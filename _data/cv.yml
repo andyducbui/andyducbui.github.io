@@ -18,6 +18,19 @@ cv:
     countryCode: US
 
   sections:
+   Education:
+      - institution: Southern Methodist University
+        location: Dallas, Texas
+        url: https://www.smu.edu/
+        area: Data Science
+        studyType: Masters
+        start_date: 2026
+        end_date: Present
+        score: ""
+        courses: "Doing Data Science"
+        highlights:
+
+
     Education:
       - institution: University of Houston
         location: Houston, Texas
@@ -29,6 +42,8 @@ cv:
         score: ""
         courses: "Embedded Systems, Microprocessors, Object Oriented Programming, Advanced Computer Networks"
         highlights:
+          -Project lead, designed a solar panel that would search and then move toward the most optimal recharging path
+          -Project lead, programmed a FGPA to convert serial data to parallel data
 
 
     Experience:

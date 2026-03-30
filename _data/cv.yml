@@ -66,15 +66,13 @@ cv:
         end_date: 2017
         summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
         highlights:
-          - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
-          - "Men of the year 2014 by Time magazine"
+
 
 
     Skills:
-      - name: Physics
-        level: Master
+      - name: Programming Languages
         icon: fa-solid fa-hashtag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+        keywords: "C#, C++, JavaScript, Python, SQL, VBA, and HTML"
 
     Languages:
       - name: Vietnamese

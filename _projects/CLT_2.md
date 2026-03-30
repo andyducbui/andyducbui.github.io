@@ -1,7 +1,3 @@
-<!DOCTYPE html>
-
-<html>
-
 ---
 layout: page
 title: CLT
@@ -10,6 +6,10 @@ img: assets/img/12.jpg
 importance: 1
 category: work
 ---
+
+<!DOCTYPE html>
+
+<html>
 
 <head>
 

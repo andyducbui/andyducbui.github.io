@@ -11,7 +11,7 @@ ninja.data = [{
     },
   },{id: "nav-projects",
           title: "projects",
-          description: "A growing collection of your cool projects.",
+          description: "Data science projects.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
@@ -24,8 +24,8 @@ ninja.data = [{
             window.location.href = "/repositories/";
           },
         },{id: "nav-andy-39-s-resume",
-          title: "Andy&#39;s Resume",
-          description: "Andy&#39;s Resume",
+          title: "andy&#39;s resume",
+          description: "To download please click icon on the right",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";

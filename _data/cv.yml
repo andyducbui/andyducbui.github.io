@@ -10,6 +10,12 @@ cv:
     - network: GitHub
       username: andyducbui
 
+  address:
+    city: Arlington
+    region: Texas
+    postalCode: TX 76005
+    countryCode: US
+
   sections:
     Education:
       - institution: Southern Methodist University

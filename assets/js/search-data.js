@@ -23,9 +23,9 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/repositories/";
           },
-        },{id: "nav-andy-39-s-resume",
-          title: "andy&#39;s resume",
-          description: "To download please click icon on the right",
+        },{id: "nav-cv",
+          title: "cv",
+          description: "Andy&#39;s Resume",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";

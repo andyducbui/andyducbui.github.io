@@ -71,11 +71,11 @@ cv:
     
     Volunteer:
       - company: Community Volunteer Fire Deparment
-        position: Fire Fighter
+        position: Firefighter
         location: Katy, Texas
         start_date: 2012
         end_date: 2017
-        summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
+        summary: Fight fires and deliver basic life support
         highlights:
 
 

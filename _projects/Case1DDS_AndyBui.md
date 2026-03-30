@@ -4,7 +4,7 @@ title: Frito Attrition Project
 description: Case Study Project for Frito Attrition Data
 img: assets/img/frito.png
 importance: 2
-category: work
+category: school
 ---
 
 <!DOCTYPE html>

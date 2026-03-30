@@ -4,7 +4,7 @@ title: CLT
 description: Demonstration of CLT
 img: assets/img/12.jpg
 importance: 1
-category: work
+category: school
 ---
 
 <!DOCTYPE html>

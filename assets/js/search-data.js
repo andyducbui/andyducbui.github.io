@@ -23,9 +23,9 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/repositories/";
           },
-        },{id: "nav-cv",
-          title: "CV",
-          description: "This is a description of the page. You can modify it in &#39;_pages/cv.md&#39;. You can also change or remove the top pdf download button.",
+        },{id: "nav-andy-39-s-resume",
+          title: "Andy&#39;s Resume",
+          description: "Andy&#39;s Resume",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
@@ -409,7 +409,12 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-frito-attrition-project",
+          section: "News",},{id: "projects-clt",
+          title: 'CLT',
+          description: "Demonstration of CLT",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/CLT_2/";
+            },},{id: "projects-frito-attrition-project",
           title: 'Frito Attrition Project',
           description: "Case Study Project for Frito Attrition Data",
           section: "Projects",handler: () => {
